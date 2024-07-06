@@ -1,4 +1,3 @@
-
 /**
  * A data structure used as a linked list.
  * @param <T> The generic type of this data structure.
